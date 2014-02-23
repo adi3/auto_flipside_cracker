@@ -12,4 +12,4 @@ Builds upon my previous extension [Flipside Cracker](https://github.com/adi3/fli
 
 + You can't win more than one shot glass through TSF's challenge, but it's fun to top leaderboards anyway :)
 
-+ If you're part of TSF and want to fix the security vunerability which enables this extension to work, contact me.
++ If you're part of TSF and want to fix the security vulnerability which enables this extension to work, contact me.
