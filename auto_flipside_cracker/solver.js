@@ -3,6 +3,7 @@ var needle = "var Puzzles = {};";
 
 var content = document.getElementById("content").children;
 var Puzzles = getPuzzles();
+
 if (Puzzles != null) {
 
 	window.eval(Puzzles.innerText);
