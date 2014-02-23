@@ -10,6 +10,6 @@ Builds upon my previous extension [Flipside Cracker](https://github.com/adi3/fli
 
 + Make sure you're logged into your Facebook account so TSF's site registers the answers under your name. If you're not logged in, your entry will not go on TSF's leaderboard.
 
-+ You can't win more than one shotglass through TSF's challenge, but it's fun to top leaderboards anyway :)
++ You can't win more than one shot glass through TSF's challenge, but it's fun to top leaderboards anyway :)
 
 + If you're part of TSF and want to fix the security vunerability which enables this extension to work, contact me.
