@@ -6,8 +6,10 @@ Builds upon my previous extension [Flipside Cracker](https://github.com/adi3/fli
 
 ## Notes
 
-{Add instructions here}
++ Simply install the extension in your Chrome browser, and you're good to go! The extension will check TSF's website **once per day** for new challenges and solves them if found. All operations carried out in a background tab that remains open for ~12 seconds before closing.
 
-+ You can't win more than one shotglass through TSF's challenge, but it's fun to top scoreboards anyway.
++ Make sure you're logged into your Facebook account so TSF's site registers the answers under your name. If you're not logged in, your entry will not go on TSF's leaderboard.
+
++ You can't win more than one shotglass through TSF's challenge, but it's fun to top leaderboards anyway :)
 
 + If you're part of TSF and want to fix the security vunerability which enables this extension to work, contact me.
